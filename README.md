@@ -18,7 +18,7 @@ Welcome to the QR Code Generator project! This is a simple web application that 
 
 ## QR Code Generation API
 
-The QR code is generated using the [QR Code Generator API](https://api.qrserver.com/v1/create-qr-code/). Here’s how you can use it:
+The QR code is generated using the [ https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example ](https://api.qrserver.com/v1/create-qr-code/). Here’s how you can use it:
 
 **API URL Format:**
 https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=YOUR_DATA
